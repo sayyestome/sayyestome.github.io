@@ -8,6 +8,8 @@ yesBtn.addEventListener("click", () => {
   question.innerHTML = "Yayyyyyyyy!";
   gif.src =
     "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
+  noBtn.classList.add("hidden");
+  yesBtn.classList.add("margin-left-none);
 });
 
 noBtn.addEventListener("mouseover", () => {
