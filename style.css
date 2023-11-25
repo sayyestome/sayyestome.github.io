@@ -58,3 +58,6 @@ button:nth-child(2) {
 .hidden {
     display: none;
 }
+.margin-left-none{
+    margin-left:none;
+}
